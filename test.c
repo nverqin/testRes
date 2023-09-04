@@ -2,8 +2,6 @@
 
 int main(void)
 {
-
-
-
-	sdfsdfasdfsdfsadf
+	printf("%d",1);
+	return 0;
 }
