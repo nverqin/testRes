@@ -1,9 +1,7 @@
 #include <iostream>
-using namespace std;
 
 int main(void) {
 
-	cout << "This is a test." << endl;
-
+	cout << "hello world" << endl;
 	return 0;
 }
